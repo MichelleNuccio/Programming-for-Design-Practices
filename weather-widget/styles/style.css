@@ -55,7 +55,13 @@ input::placeholder{
 .city_name, .temperature{
   text-align: center;
   font-size: 3em;
-  line-height: 1.0em;
+  line-height: 1.3em;
   color: #000dff;
-  font-family: 'Arial Narrow';
+  font-family: 'Archivio Black', sans-serif;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
